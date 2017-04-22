@@ -1,509 +1,837 @@
-<!--By Sir Astral-->
-<npc id="1000" displayId="25115" level="85" type="L2Monster" name="Icarus Sample 1" >
-	<race>CONSTRUCT</race>
-	<sex>MALE</sex>
-	<acquire expRate="1000000" sp="500000" raidPoints="15000" />
-	<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-		<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
-		<attack physical="25000" magical="25000" random="30" critical="8" accuracy="0" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-		<defence physical="15000" magical="7500" />
-		<attribute>
-			<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
-		</attribute>
-		<speed>
-			<walk ground="60" />
-			<run ground="230" />
-		</speed>
-	</stats>
-	<status undying="false" noSleepMode="false" />
-	<skillList>
-		<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
-		<skill id="5367" level="9" />
-	</skillList>
-	<corpseTime>300</corpseTime>
-	<exCrtEffect>true</exCrtEffect>
-	<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
-	<dropLists>
-		<death>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="8176" min="1" max="3" chance="16" />
-				<item id="9814" min="1" max="3" chance="16" />
-				<item id="9815" min="1" max="3" chance="16" />
-				<item id="9816" min="1" max="3" chance="16" />
-				<item id="9817" min="1" max="3" chance="16" />
-				<item id="9818" min="1" max="3" chance="16" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-		</death>
-	</dropLists>
-	<collision>
-		<radius normal="42" />
-		<height normal="45" />
-	</collision>
-</npc>
-<npc id="1001" displayId="25146" level="85" type="L2Monster" name="Serpent Demon Bifrons" >
-	<race>BEAST</race>
-	<sex>FEMALE</sex>
-	<equipment rhand="6611" />
-	<acquire expRate="1000000" sp="500000" raidPoints="15000" />
-	<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-		<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
-		<attack physical="25000" magical="25000" random="30" critical="8" accuracy="0" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-		<defence physical="15000" magical="7500" />
-		<attribute>
-			<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
-		</attribute>
-		<speed>
-			<walk ground="60" />
-			<run ground="230" />
-		</speed>
-	</stats>
-	<status undying="false" noSleepMode="false" />
-	<skillList>
-		<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
-		<skill id="5367" level="9" />
-	</skillList>
-	<corpseTime>300</corpseTime>
-	<exCrtEffect>true</exCrtEffect>
-	<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
-	<dropLists>
-		<death>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="8176" min="1" max="3" chance="16" />
-				<item id="9814" min="1" max="3" chance="16" />
-				<item id="9815" min="1" max="3" chance="16" />
-				<item id="9816" min="1" max="3" chance="16" />
-				<item id="9817" min="1" max="3" chance="16" />
-				<item id="9818" min="1" max="3" chance="16" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-		</death>
-	</dropLists>
-	<collision>
-		<radius normal="25" />
-		<height normal="72" />
-	</collision>
-</npc>
-<npc id="1002" displayId="25380" level="85" type="L2Monster" name="Kaysha Herald of Icarus" >
-	<race>DEMONIC</race>
-	<sex>FEMALE</sex>
-	<acquire expRate="1000000" sp="500000" raidPoints="15000" />
-	<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-		<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
-		<attack physical="25000" magical="25000" random="30" critical="8" accuracy="0" attackSpeed="253" type="DUALFIST" range="40" distance="80" width="120" />
-		<defence physical="15000" magical="7500" />
-		<attribute>
-			<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
-		</attribute>
-		<speed>
-			<walk ground="60" />
-			<run ground="230" />
-		</speed>
-	</stats>
-	<status undying="false" noSleepMode="false" />
-	<skillList>
-		<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
-		<skill id="5367" level="9" />
-	</skillList>
-	<corpseTime>300</corpseTime>
-	<exCrtEffect>true</exCrtEffect>
-	<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
-	<dropLists>
-		<death>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="8176" min="1" max="3" chance="16" />
-				<item id="9814" min="1" max="3" chance="16" />
-				<item id="9815" min="1" max="3" chance="16" />
-				<item id="9816" min="1" max="3" chance="16" />
-				<item id="9817" min="1" max="3" chance="16" />
-				<item id="9818" min="1" max="3" chance="16" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-		</death>
-	</dropLists>
-	<collision>
-		<radius normal="10" />
-		<height normal="43.2" />
-	</collision>
-</npc>
-<npc id="1003" displayId="25383" level="85" type="L2Monster" name="Revenant of Sir Calibus" >
-	<race>UNDEAD</race>
-	<sex>MALE</sex>
-	<equipment rhand="6611" />
-	<acquire expRate="1000000" sp="500000" raidPoints="15000" />
-	<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-		<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
-		<attack physical="25000" magical="25000" random="30" critical="8" accuracy="0" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-		<defence physical="15000" magical="7500" />
-		<attribute>
-			<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
-		</attribute>
-		<speed>
-			<walk ground="60" />
-			<run ground="230" />
-		</speed>
-	</stats>
-	<status undying="false" noSleepMode="false" />
-	<skillList>
-		<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
-		<skill id="5367" level="9" />
-	</skillList>
-	<corpseTime>300</corpseTime>
-	<exCrtEffect>true</exCrtEffect>
-	<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
-	<dropLists>
-		<death>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="8176" min="1" max="3" chance="16" />
-				<item id="9814" min="1" max="3" chance="16" />
-				<item id="9815" min="1" max="3" chance="16" />
-				<item id="9816" min="1" max="3" chance="16" />
-				<item id="9817" min="1" max="3" chance="16" />
-				<item id="9818" min="1" max="3" chance="16" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-		</death>
-	</dropLists>
-	<collision>
-		<radius normal="11" grown="13" />
-		<height normal="27" grown="34" />
-	</collision>
-</npc>
-<npc id="1004" displayId="25473" level="85" type="L2Monster" name="Grave Robber Kim" >
-	<race>HUMANOID</race>
-	<sex>MALE</sex>
-	<equipment rhand="6613" />
-	<acquire expRate="1000000" sp="500000" raidPoints="15000" />
-	<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-		<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
-		<attack physical="25000" magical="25000" random="30" critical="4" accuracy="4" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-		<defence physical="15000" magical="7500" />
-		<attribute>
-			<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
-		</attribute>
-		<speed>
-			<walk ground="60" />
-			<run ground="230" />
-		</speed>
-	</stats>
-	<status undying="false" noSleepMode="false" />
-	<skillList>
-		<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
-		<skill id="5367" level="9" />
-	</skillList>
-	<corpseTime>300</corpseTime>
-	<exCrtEffect>true</exCrtEffect>
-	<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
-	<dropLists>
-		<death>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="57" min="250000000" max="250000000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6577" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6578" min="1" max="1" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="6622" min="5" max="5" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="9627" min="1" max="5" chance="50" />
-			</group>
-			<group chance="100">
-				<item id="8176" min="1" max="3" chance="16" />
-				<item id="9814" min="1" max="3" chance="16" />
-				<item id="9815" min="1" max="3" chance="16" />
-				<item id="9816" min="1" max="3" chance="16" />
-				<item id="9817" min="1" max="3" chance="16" />
-				<item id="9818" min="1" max="3" chance="16" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-			<group chance="100">
-				<item id="13067" min="1000" max="1000" chance="100" />
-			</group>
-		</death>
-	</dropLists>
-	<collision>
-		<radius normal="20" />
-		<height normal="42" />
-	</collision>
-</npc>
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/npcs.xsd">
+	<npc id="50007" displayId="31324" name="Andromeda" usingServerSideName="true" title="Wedding Manager" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="8" />
+			<height normal="23" />
+		</collision>
+	</npc>
+	<npc id="70010" displayId="31606" name="Catrina" usingServerSideName="true" title="TvT Event Manager" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="8" />
+			<height normal="15" />
+		</collision>
+	</npc>
+	<npc id="900100" displayId="20432" level="1" name="Elpy" type="L2EventMonster">
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="40" hpRegen="3" mp="36" mpRegen="1" />
+			<attack physical="8" magical="7" />
+			<defence physical="25" magical="40" />
+		</stats>
+		<status undying="false" />
+		<collision>
+			<radius normal="5" />
+			<height normal="4.5" />
+		</collision>
+	</npc>
+	<npc id="900101" displayId="32365" name="Snowden" usingServerSideName="true" title="Event Manager">
+		<collision>
+			<radius normal="5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="900102" displayId="13098" level="80" name="Event Treasure Chest" type="L2Monster">
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2880" mp="1524" />
+			<defence physical="1499" magical="1035.28" />
+		</stats>
+		<collision>
+			<radius normal="8.5" />
+			<height normal="8.5" />
+		</collision>
+	</npc>
+	<npc id="900103" displayId="32365" name="Start" usingServerSideName="true" title="Event Manager">
+		<collision>
+			<radius normal="5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<npc id="900104" displayId="32365" name="Finish" usingServerSideName="true" title="Event Manager">
+		<collision>
+			<radius normal="5" />
+			<height normal="12.5" />
+		</collision>
+	</npc>
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<npc id="10000000" displayId="30006" level="70" type="L2Teleporter" name="Roxxy" title="Gatekeeper">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="90" />
+			<param name="IsGateKeeperForCoreTime" value="1" />
+		</parameters>
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />
+			<attack physical="688.86373" magical="470.40463" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="295.91597" magical="216.53847" />
+			<attribute>
+				<defence fire="150" water="150" wind="150" earth="150" holy="150" dark="150" default="150" />
+			</attribute>
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="14" /> <!--Humans -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="25" />
+		</collision>
+	</npc>
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<npc id="1000003" displayId="30031" level="70" type="L2NpcBuffer" name="Biotin" title="Normal Buffer">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="135" />
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />
+			<attack physical="688.86373" magical="470.40463" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="295.91597" magical="216.53847" />
+			<attribute>
+				<defence fire="150" water="150" wind="150" earth="150" holy="150" dark="150" default="150" />
+			</attribute>
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="14" /> <!--Humans -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="8" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<npc id="10000" displayId="30001" level="70" type="L2Merchant" name="Lector" title="Merchant">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="110" />
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />
+			<attack physical="688.86373" magical="470.40463" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="295.91597" magical="216.53847" />
+			<attribute>
+				<defence fire="150" water="150" wind="150" earth="150" holy="150" dark="150" default="150" />
+			</attribute>
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="14" /> <!--Humans -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="10" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<npc id="10001" displayId="30001" level="70" type="L2Merchant" name="Lector" title="Merchant">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="110" />
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />
+			<attack physical="688.86373" magical="470.40463" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="295.91597" magical="216.53847" />
+			<attribute>
+				<defence fire="150" water="150" wind="150" earth="150" holy="150" dark="150" default="150" />
+			</attribute>
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="14" /> <!--Humans -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="10" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<!---->
+	<npc id="10002" displayId="30001" level="70" type="L2Merchant" name="Lector" title="Merchant">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="MoveAroundSocial" value="0" />
+			<param name="MoveAroundSocial1" value="110" />
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7" />
+			<attack physical="688.86373" magical="470.40463" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="295.91597" magical="216.53847" />
+			<attribute>
+				<defence fire="150" water="150" wind="150" earth="150" holy="150" dark="150" default="150" />
+			</attribute>
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+		</stats>
+		<status attackable="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="11" /> <!--Average P. Atk. -->
+			<skill id="4411" level="11" /> <!--Average M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="11" /> <!--Average M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="14" /> <!--Humans -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false" />
+		<collision>
+			<radius normal="10" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="999" displayId="35684" level="85" type="L2Monster" name="Archer">
+		<parameters>
+			<param name="MoveAroundSocial" value="104" />
+			<param name="MoveAroundSocial1" value="104" />
+			<param name="MoveAroundSocial2" value="104" />
+			<param name="SetHateRaceRatio" value="10" />
+		</parameters>
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<equipment rhand="6619" /> <!-- rhand: Bow -->
+		<acquire expRate="100000" sp="50000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="20000" hpRegen="100" mp="5000" mpRegen="50" />
+			<attack physical="20000" magical="20000" random="10" critical="8" accuracy="0" attackSpeed="253" reuseDelay="1500" type="BOW" range="1100" distance="10" width="0" />
+			<defence physical="1000" magical="1000" />
+			<attribute>
+				<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
+			</attribute>
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<hitTime>800</hitTime>
+		</stats>
+		<status undying="false" />
+		<skillList>
+			<skill id="996" level="1" /> <!-- Disarm -->
+			<skill id="4045" level="1" /> <!-- Resist Full Magic Attack -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="ARCHER" aggroRange="1000" clanHelpRange="300" dodge="15" isAggressive="false">
+			<clanList>
+				<clan>DOOR</clan>
+				<clan>FORTRESS</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+		</dropLists>
+		<collision>
+			<radius normal="8" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="1002" displayId="25115" level="85" type="L2Monster" name="Icarus Sample 1" >
+		<!-- Confirmed CT2.5 -->
+		<race>CONSTRUCT</race>
+		<sex>MALE</sex>
+		<acquire expRate="1000000" sp="500000" raidPoints="15000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
+			<attack physical="25000" magical="25000" random="30" critical="8" accuracy="0" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="15000" magical="7500" />
+			<attribute>
+				<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
+			</attribute>
+			<speed>
+				<walk ground="60" />
+				<run ground="230" />
+			</speed>
+		</stats>
+		<status undying="false" noSleepMode="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="5367" level="9" />
+		</skillList>
+		<corpseTime>300</corpseTime>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
+		<dropLists>
+			<death>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="8176" min="1" max="3" chance="16" />
+					<item id="9814" min="1" max="3" chance="16" />
+					<item id="9815" min="1" max="3" chance="16" />
+					<item id="9816" min="1" max="3" chance="16" />
+					<item id="9817" min="1" max="3" chance="16" />
+					<item id="9818" min="1" max="3" chance="16" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="42" />
+			<height normal="45" />
+		</collision>
+	</npc>
+	<npc id="1003" displayId="25146" level="85" type="L2Monster" name="Serpent Demon Bifrons" >
+		<!-- Confirmed CT2.5 -->
+		<race>BEAST</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="6611" />
+		<acquire expRate="1000000" sp="500000" raidPoints="15000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
+			<attack physical="25000" magical="25000" random="30" critical="8" accuracy="0" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="15000" magical="7500" />
+			<attribute>
+				<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
+			</attribute>
+			<speed>
+				<walk ground="60" />
+				<run ground="230" />
+			</speed>
+		</stats>
+		<status undying="false" noSleepMode="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="5367" level="9" />
+		</skillList>
+		<corpseTime>300</corpseTime>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
+		<dropLists>
+			<death>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="8176" min="1" max="3" chance="16" />
+					<item id="9814" min="1" max="3" chance="16" />
+					<item id="9815" min="1" max="3" chance="16" />
+					<item id="9816" min="1" max="3" chance="16" />
+					<item id="9817" min="1" max="3" chance="16" />
+					<item id="9818" min="1" max="3" chance="16" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="25" />
+			<height normal="72" />
+		</collision>
+	</npc>
+	<npc id="1004" displayId="25380" level="85" type="L2Monster" name="Kaysha Herald of Icarus" >
+		<!-- Confirmed CT2.5 -->
+		<race>DEMONIC</race>
+		<sex>FEMALE</sex>
+		<acquire expRate="1000000" sp="500000" raidPoints="15000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
+			<attack physical="25000" magical="25000" random="30" critical="8" accuracy="0" attackSpeed="253" type="DUALFIST" range="40" distance="80" width="120" />
+			<defence physical="15000" magical="7500" />
+			<attribute>
+				<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
+			</attribute>
+			<speed>
+				<walk ground="60" />
+				<run ground="230" />
+			</speed>
+		</stats>
+		<status undying="false" noSleepMode="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="5367" level="9" />
+		</skillList>
+		<corpseTime>300</corpseTime>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
+		<dropLists>
+			<death>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="8176" min="1" max="3" chance="16" />
+					<item id="9814" min="1" max="3" chance="16" />
+					<item id="9815" min="1" max="3" chance="16" />
+					<item id="9816" min="1" max="3" chance="16" />
+					<item id="9817" min="1" max="3" chance="16" />
+					<item id="9818" min="1" max="3" chance="16" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="10" />
+			<height normal="43.2" />
+		</collision>
+	</npc>
+	<npc id="1005" displayId="25383" level="85" type="L2Monster" name="Revenant of Sir Calibus" >
+		<!-- Confirmed CT2.5 -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="6611" />
+		<acquire expRate="1000000" sp="500000" raidPoints="15000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
+			<attack physical="25000" magical="25000" random="30" critical="8" accuracy="0" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="15000" magical="7500" />
+			<attribute>
+				<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
+			</attribute>
+			<speed>
+				<walk ground="60" />
+				<run ground="230" />
+			</speed>
+		</stats>
+		<status undying="false" noSleepMode="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="5367" level="9" />
+		</skillList>
+		<corpseTime>300</corpseTime>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
+		<dropLists>
+			<death>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="8176" min="1" max="3" chance="16" />
+					<item id="9814" min="1" max="3" chance="16" />
+					<item id="9815" min="1" max="3" chance="16" />
+					<item id="9816" min="1" max="3" chance="16" />
+					<item id="9817" min="1" max="3" chance="16" />
+					<item id="9818" min="1" max="3" chance="16" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="11" grown="13" />
+			<height normal="27" grown="34" />
+		</collision>
+	</npc>
+	<npc id="1006" displayId="25473" level="85" type="L2Monster" name="Grave Robber Kim" >
+		<!-- Confirmed CT2.5 -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="6613" />
+		<acquire expRate="1000000" sp="500000" raidPoints="15000" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2000000" hpRegen="1000" mp="500000" mpRegen="500" />
+			<attack physical="25000" magical="25000" random="30" critical="4" accuracy="4" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="15000" magical="7500" />
+			<attribute>
+				<defence fire="0" water="0" wind="0" earth="0" holy="0" dark="0" />
+			</attribute>
+			<speed>
+				<walk ground="60" />
+				<run ground="230" />
+			</speed>
+		</stats>
+		<status undying="false" noSleepMode="false" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="5367" level="9" />
+		</skillList>
+		<corpseTime>300</corpseTime>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="1000" clanHelpRange="3500" isAggressive="false"></ai>
+		<dropLists>
+			<death>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="57" min="250000000" max="250000000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6577" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6578" min="1" max="1" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="6622" min="5" max="5" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="9627" min="1" max="5" chance="50" />
+				</group>
+				<group chance="100">
+					<item id="8176" min="1" max="3" chance="16" />
+					<item id="9814" min="1" max="3" chance="16" />
+					<item id="9815" min="1" max="3" chance="16" />
+					<item id="9816" min="1" max="3" chance="16" />
+					<item id="9817" min="1" max="3" chance="16" />
+					<item id="9818" min="1" max="3" chance="16" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+				<group chance="100">
+					<item id="13067" min="1000" max="1000" chance="100" />
+				</group>
+			</death>
+		</dropLists>
+		<collision>
+			<radius normal="20" />
+			<height normal="42" />
+		</collision>
+	</npc>
+</list>
