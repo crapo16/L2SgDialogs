@@ -1,0 +1,11 @@
+//agregale una variación al Z, ya sabés :)
+//las coordenadas son todas iguales porque las habitaciones están una encima de la otra, lo único que cambia es la altura
+
+Piso1
+-21160, 280340, -15045//-23260, 276840, -15045
+Piso2
+-21160, 280340, -12934//-23260, 276840, -12934
+Piso3
+-21160, 280340, -11429//-23260, 276840, -11429
+Piso4
+-21160, 280340, -9924//-23260, 276840, -9924
