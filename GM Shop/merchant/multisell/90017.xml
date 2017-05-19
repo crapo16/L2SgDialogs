@@ -1,0 +1,52 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Created with Lineage II - Multisell Manager -->
+<!-- © 2011 by NeverMore -->
+
+<list maintainEnchantment="true">
+
+   <!-- Bracelet -->
+  <item id="1">
+    <ingredient id="13067" count="10000"/>
+    <production id="10210" count="1"/>
+  </item>
+  
+  
+  <item id="4">
+    <ingredient id="13067" count="10000"/>
+    <production id="10512" count="1"/>
+  </item>
+  
+ 
+  <item id="2">
+    <ingredient id="13067" count="10000"/>
+    <production id="10513" count="1"/>
+  </item>
+  
+  
+  <item id="3">
+    <ingredient id="13067" count="10000"/>
+    <production id="10514" count="1"/>
+  </item>
+  
+  
+  <item id="4">
+    <ingredient id="13067" count="10000"/>
+    <production id="14961" count="1"/>
+  </item>
+  
+ 
+  <item id="2">
+    <ingredient id="13067" count="10000"/>
+    <production id="14957" count="1"/>
+  </item>
+  
+  
+  <item id="3">
+    <ingredient id="13067" count="10000"/>
+    <production id="14953" count="1"/>
+  </item>
+  
+
+
+</list>

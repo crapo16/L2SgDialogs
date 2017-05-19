@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- © 2011 by NeverMore -->
+
+<list maintainEnchantment="true">
+
+  <!-- Moirai Necklace -->
+  <item id="1">
+  <ingredient id="13067" count="10000"/>
+    <production id="6656" count="1"/>
+  </item>
+
+  <!-- Moirai Earring -->
+  <item id="2">
+    <ingredient id="13067" count="10000"/>
+    <production id="6657" count="1"/>
+  </item>
+  
+  <!-- Moirai Earring -->
+  <item id="3">
+    <ingredient id="13067" count="10000"/>
+    <production id="6658" count="1"/>
+  </item>
+  
+  <!-- Moirai Earring -->
+  <item id="4">
+    <ingredient id="13067" count="10000"/>
+    <production id="6659" count="1"/>
+  </item>
+  
+  <!-- Moirai Earring -->
+  <item id="5">
+    <ingredient id="13067" count="10000"/>
+    <production id="6660" count="1"/>
+  </item>
+  
+  <!-- Moirai Earring -->
+  <item id="6">
+    <ingredient id="13067" count="10000"/>
+    <production id="6661" count="1"/>
+  </item>
+  
+  <!-- Moirai Earring -->
+  <item id="7">
+    <ingredient id="13067" count="10000"/>
+    <production id="6662" count="1"/>
+  </item>
+  
+  <!-- Moirai Earring -->
+  <item id="8">
+    <ingredient id="13067" count="10000"/>
+    <production id="10314" count="1"/>
+  </item>
+  
+  <!-- Moirai Earring -->
+  <item id="9">
+    <ingredient id="13067" count="10000"/>
+    <production id="16026" count="1"/>
+  </item>
+  
+  <!-- Moirai Earring -->
+  <item id="10">
+    <ingredient id="13067" count="10000"/>
+    <production id="16025" count="1"/>
+  </item>
+  
+
+  
+</list>
