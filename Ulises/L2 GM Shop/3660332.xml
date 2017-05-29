@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Vesper Jewels-->
+<list>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="14165" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="14163" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="14164" count="1"/>
+  </item>
+</list>

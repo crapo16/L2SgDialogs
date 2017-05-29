@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Cloaks-->
+<list>
+	<item>
+		<ingredient id="13067" count="5000"/>
+		<production id="13890" count="1"/>
+	</item>
+	<item>
+		<ingredient id="13067" count="5000"/>
+		<production id="13687" count="1"/>
+	</item>
+</list>

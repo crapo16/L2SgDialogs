@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Shirts-->
+<list>
+	<item>
+		<ingredient id="13067" count="5000"/>
+		<production id="10514" count="1"/>
+	</item>
+	<item>
+		<ingredient id="13067" count="5000"/>
+		<production id="10512" count="1"/>
+	</item>
+	<item>
+		<ingredient id="13067" count="5000"/>
+		<production id="10513" count="1"/>
+	</item>
+</list>

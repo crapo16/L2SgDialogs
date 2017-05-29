@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Attribute-->
+<list>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Fire Stone -->
+		<production count="1" id="9546" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Water Stone -->
+		<production count="1" id="9547" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Earth Stone -->
+		<production count="1" id="9548" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Wind Stone -->
+		<production count="1" id="9549" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Holy Stone -->
+		<production count="1" id="9551" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Dark Stone -->
+		<production count="1" id="9550" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2500" id="13067" />
+		<!-- Fire Crystal -->
+		<production count="1" id="9552" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2500" id="13067" />
+		<!-- Water Crystal -->
+		<production count="1" id="9553" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2500" id="13067" />
+		<!-- Earth Crystal -->
+		<production count="1" id="9554" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2500" id="13067" />
+		<!-- Wind Crystal -->
+		<production count="1" id="9555" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2500" id="13067" />
+		<!-- Holy Crystal -->
+		<production count="1" id="9557" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2500" id="13067" />
+		<!-- Dark Crystal -->
+		<production count="1" id="9556" />
+	</item>
+</list>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Giants' Codexes-->
+<list>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Giant's Codex -->
+		<production count="1" id="6622" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="1500" id="13067" />
+		<!-- Giant's Codex - Discipline -->
+		<production count="1" id="9626" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2000" id="13067" />
+		<!-- Giant's Codex - Mastery -->
+		<production count="1" id="9627" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="1000" id="13067" />
+		<!-- Giant's Codex - Oblivion -->
+		<production count="1" id="9625" />
+	</item>
+</list>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Upgrade {PvP} Weapons-->
+<list maintainEnchantment="true">
+  <item>
+    <!-- Eternal Core Sword - Focus -->
+    <ingredient count="1" id="15871" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Eternal Core Sword {PvP} - Focus -->
+    <production count="1" id="15983" />
+  </item>
+  <item>
+    <!-- Eternal Core Sword - Haste -->
+    <ingredient count="1" id="15872" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Eternal Core Sword {PvP} - Haste -->
+    <production count="1" id="15984" />
+  </item>
+  <item>
+    <!-- Eternal Core Sword - Health -->
+    <ingredient count="1" id="15873" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Eternal Core Sword {PvP} - Health -->
+    <production count="1" id="15985" />
+  </item>
+  <item>
+    <!-- Heavenstare Rapier - Focus -->
+    <ingredient count="1" id="15904" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Heavenstare Rapier {PvP} - Focus -->
+    <production count="1" id="16016" />
+  </item>
+  <item>
+    <!-- Heavenstare Rapier - Haste -->
+    <ingredient count="1" id="15905" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Heavenstare Rapier {PvP} - Haste -->
+    <production count="1" id="16017" />
+  </item>
+  <item>
+    <!-- Heavenstare Rapier - Health -->
+    <ingredient count="1" id="15906" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Heavenstare Rapier {PvP} - Health -->
+    <production count="1" id="16018" />
+  </item>
+  <item>
+    <!-- Lava Saw - Focus -->
+    <ingredient count="1" id="15883" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Lava Saw {PvP} - Focus -->
+    <production count="1" id="15995" />
+  </item>
+  <item>
+    <!-- Lava Saw - Haste -->
+    <ingredient count="1" id="15884" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Lava Saw {PvP} - Haste -->
+    <production count="1" id="15996" />
+  </item>
+  <item>
+    <!-- Lava Saw - Health -->
+    <ingredient count="1" id="15885" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Lava Saw {PvP} - Health -->
+    <production count="1" id="15997" />
+  </item>
+  <item>
+    <!-- Pyseal Blade - Focus -->
+    <ingredient count="1" id="15907" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Pyseal Blade {PvP} - Focus -->
+    <production count="1" id="16019" />
+  </item>
+  <item>
+    <!-- Pyseal Blade - Haste -->
+    <ingredient count="1" id="15908" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Pyseal Blade {PvP} - Haste -->
+    <production count="1" id="16020" />
+  </item>
+  <item>
+    <!-- Pyseal Blade - Health -->
+    <ingredient count="1" id="15909" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Pyseal Blade {PvP} - Health -->
+    <production count="1" id="16021" />
+  </item>
+  <item>
+    <!-- Eversor Mace - Health -->
+    <ingredient count="1" id="15879" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Eversor Mace {PvP} - Health -->
+    <production count="1" id="15991" />
+  </item>
+  <item>
+    <!-- Eversor Mace - HP Drain -->
+    <ingredient count="1" id="15878" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Eversor Mace {PvP} - HP Drain -->
+    <production count="1" id="15990" />
+  </item>
+  <item>
+    <!-- Eversor Mace - HP Regeneration -->
+    <ingredient count="1" id="15877" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Eversor Mace {PvP} - HP Regeneration -->
+    <production count="1" id="15989" />
+  </item>
+  <item>
+    <!-- Contristo Hammer - Health -->
+    <ingredient count="1" id="15882" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Contristo Hammer {PvP} - Health -->
+    <production count="1" id="15994" />
+  </item>
+  <item>
+    <!-- Contristo Hammer - HP Drain -->
+    <ingredient count="1" id="15880" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Contristo Hammer {PvP} - HP Drain -->
+    <production count="1" id="15992" />
+  </item>
+  <item>
+    <!-- Contristo Hammer - HP Regeneration -->
+    <ingredient count="1" id="15881" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Contristo Hammer {PvP} - HP Regeneration -->
+    <production count="1" id="15993" />
+  </item>
+  <item>
+    <!-- Mamba Edge - Crt. Damage -->
+    <ingredient count="1" id="15875" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Mamba Edge {PvP} - Crt. Damage -->
+    <production count="1" id="15987" />
+  </item>
+  <item>
+    <!-- Mamba Edge - Haste -->
+    <ingredient count="1" id="15874" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Mamba Edge {PvP} - Haste -->
+    <production count="1" id="15986" />
+  </item>
+  <item>
+    <!-- Mamba Edge - HP Drain -->
+    <ingredient count="1" id="15876" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Mamba Edge {PvP} - HP Drain -->
+    <production count="1" id="15988" />
+  </item> 
+  <item>
+    <!-- Recurve Thorne Bow - Cheap Shot -->
+    <ingredient count="1" id="15902" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Recurve Thorne Bow {PvP} - Cheap Shot -->
+    <production count="1" id="16014" />
+  </item>
+  <item>
+    <!-- Recurve Thorne Bow - Crt. Slow -->
+    <ingredient count="1" id="15901" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Recurve Thorne Bow {PvP} - Crt. Slow -->
+    <production count="1" id="16013" />
+  </item>
+  <item>
+    <!-- Recurve Thorne Bow - Focus -->
+    <ingredient count="1" id="15903" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Recurve Thorne Bow {PvP} - Focus -->
+    <production count="1" id="16015" />
+  </item>
+  <item>
+    <!-- Thorne Crossbow - Cheap Shot -->
+    <ingredient count="1" id="15911" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Thorne Crossbow {PvP} - Cheap Shot -->
+    <production count="1" id="16023" />
+  </item>
+  <item>
+    <!-- Thorne Crossbow - Crt. Slow -->
+    <ingredient count="1" id="15910" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Thorne Crossbow {PvP} - Crt. Slow -->
+    <production count="1" id="16022" />
+  </item>
+  <item>
+    <!-- Thorne Crossbow - Focus -->
+    <ingredient count="1" id="15912" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Thorne Crossbow {PvP} - Focus -->
+    <production count="1" id="16024" />
+  </item>
+  <item>
+    <!-- Jade Claw - Crt. Stun -->
+    <ingredient count="1" id="15886" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Jade Claw {PvP} - Crt. Stun -->
+    <production count="1" id="15998" />
+  </item>
+  <item>
+    <!-- Jade Claw - Health -->
+    <ingredient count="1" id="15888" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Jade Claw {PvP} - Health -->
+    <production count="1" id="16000" />
+  </item>
+  <item>
+    <!-- Jade Claw - Focus -->
+    <ingredient count="1" id="15887" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Jade Claw {PvP} - Focus -->
+    <production count="1" id="15999" />
+  </item>
+  <item>
+    <!-- Eternal Core Dual Sword -->
+    <ingredient count="1" id="16158" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Eternal Core Dual Sword {PvP} -->
+    <production count="1" id="16159" />
+  </item>
+  <item>
+    <!-- Mamba Edge Dual Daggers -->
+    <ingredient count="1" id="16156" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Mamba Edge Dual Daggers {PvP} -->
+    <production count="1" id="16157" />
+  </item>
+  <item>
+    <!-- Demitelum - Guidance -->
+    <ingredient count="1" id="15891" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Demitelum {PvP} - Guidance -->
+    <production count="1" id="16003" />
+  </item>
+  <item>
+    <!-- Demitelum - Haste -->
+    <ingredient count="1" id="15889" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Demitelum {PvP} - Haste -->
+    <production count="1" id="16001" />
+  </item>
+  <item>
+    <!-- Demitelum - Health -->
+    <ingredient count="1" id="15890" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Demitelum {PvP} - Health -->
+    <production count="1" id="16002" />
+  </item>
+  <item>
+    <!-- Archangel Sword - Acumen -->
+    <ingredient count="1" id="15900" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Archangel Sword {PvP} - Acumen -->
+    <production count="1" id="16012" />
+  </item>
+  <item>
+    <!-- Archangel Sword - Magic Hold -->
+    <ingredient count="1" id="15898" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Archangel Sword {PvP} - Magic Hold -->
+    <production count="1" id="16010" />
+  </item>
+  <item>
+    <!-- Archangel Sword - Mana Up -->
+    <ingredient count="1" id="15899" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Archangel Sword {PvP} - Mana Up -->
+    <production count="1" id="16011" />
+  </item>
+  <item>
+    <!-- Sacredium - Acumen -->
+    <ingredient count="1" id="15893" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Sacredium {PvP} - Acumen -->
+    <production count="1" id="16005" />
+  </item>
+  <item>
+    <!-- Sacredium - Mana Up -->
+    <ingredient count="1" id="15892" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Sacredium {PvP} - Mana Up -->
+    <production count="1" id="16004" />
+  </item>
+  <item>
+    <!-- Sacredium - MP Regeneration -->
+    <ingredient count="1" id="15894" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Sacredium {PvP} - MP Regeneration -->
+    <production count="1" id="16006" />
+  </item>
+  <item>
+    <!-- Cyclic Cane - Empower -->
+    <ingredient count="1" id="15896" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Cyclic Cane {PvP} - Empower -->
+    <production count="1" id="16008" />
+  </item>
+  <item>
+    <!-- Cyclic Cane - Magic Hold -->
+    <ingredient count="1" id="15895" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Cyclic Cane {PvP} - Magic Hold -->
+    <production count="1" id="16007" />
+  </item>
+  <item>
+    <!-- Cyclic Cane - MP Regeneration -->
+    <ingredient count="1" id="15897" />
+    <!-- Coins -->
+    <ingredient count="20000" id="13067" />
+    <!-- Cyclic Cane {PvP} - MP Regeneration -->
+    <production count="1" id="16009" />
+  </item>
+</list>

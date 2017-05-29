@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Vesper Armors-->
+<list>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13140" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13435" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13448" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13449" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13450" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13471" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13141" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13436" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13451" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13452" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13453" count="1"/>
+  </item>
+  <item>
+    <production id="-1" count="0"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13142" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13437" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13454" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13455" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="13456" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="3000"/>
+    <production id="15622" count="1"/>
+  </item>
+</list>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Augment-->
+<list>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Top-Grade Life Stone - Level 86 -->
+		<production count="1" id="16167" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2500" id="13067" />
+		<!-- Accessory Type Life Stone - Level 86 -->
+		<production count="1" id="16178" />
+	</item>
+</list>

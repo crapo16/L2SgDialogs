@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Elegia Jewels-->
+<list>
+  <item>
+    <ingredient id="13067" count="5000"/>
+    <production id="15717" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="5000"/>
+    <production id="15718" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="5000"/>
+    <production id="15719" count="1"/>
+  </item>
+</list>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Vorpal Jewels-->
+<list>
+  <item>
+    <ingredient id="13067" count="4000"/>
+    <production id="15720" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="4000"/>
+    <production id="15721" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="4000"/>
+    <production id="15722" count="1"/>
+  </item>
+</list>

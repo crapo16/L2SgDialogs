@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Enchantment Scrolls-->
+<list>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Scroll: Enchant Weapon (D-Grade) -->
+		<production count="1" id="955" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="1000" id="13067" />
+		<!-- Scroll: Enchant Weapon (C-Grade) -->
+		<production count="1" id="951" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="1500" id="13067" />
+		<!-- Scroll: Enchant Weapon (B-Grade) -->
+		<production count="1" id="947" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2000" id="13067" />
+		<!-- Scroll: Enchant Weapon (A-Grade) -->
+		<production count="1" id="729" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2500" id="13067" />
+		<!-- Scroll: Enchant Weapon (S-Grade) -->
+		<production count="1" id="959" />
+	</item>
+	<item>
+		<production count="0" id="-1" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="250" id="13067" />
+		<!-- Scroll: Enchant Armor (D-Grade) -->
+		<production count="1" id="956" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Scroll: Enchant Armor (C-Grade) -->
+		<production count="1" id="952" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="750" id="13067" />
+		<!-- Scroll: Enchant Armor (B-Grade) -->
+		<production count="1" id="948" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="1000" id="13067" />
+		<!-- Scroll: Enchant Armor (A-Grade) -->
+		<production count="1" id="730" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="1250" id="13067" />
+		<!-- Scroll: Enchant Armor (S-Grade) -->
+		<production count="1" id="960" />
+	</item>
+	<item>
+		<production count="0" id="-1" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="1000" id="13067" />
+		<!-- Blessed Scroll: Enchant Weapon (D-Grade) -->
+		<production count="1" id="6575" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2000" id="13067" />
+		<!-- Blessed Scroll: Enchant Weapon (C-Grade) -->
+		<production count="1" id="6573" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="3000" id="13067" />
+		<!-- Blessed Scroll: Enchant Weapon (B-Grade) -->
+		<production count="1" id="6571" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="4000" id="13067" />
+		<!-- Blessed Scroll: Enchant Weapon (A-Grade) -->
+		<production count="1" id="6569" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="5000" id="13067" />
+		<!-- Blessed Scroll: Enchant Weapon (S-Grade) -->
+		<production count="1" id="6577" />
+	</item>
+	<item>
+		<production count="0" id="-1" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="500" id="13067" />
+		<!-- Blessed Scroll: Enchant Armor (D-Grade) -->
+		<production count="1" id="6576" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="1000" id="13067" />
+		<!-- Blessed Scroll: Enchant Armor (C-Grade) -->
+		<production count="1" id="6574" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="1500" id="13067" />
+		<!-- Blessed Scroll: Enchant Armor (B-Grade) -->
+		<production count="1" id="6572" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2000" id="13067" />
+		<!-- Blessed Scroll: Enchant Armor (A-Grade) -->
+		<production count="1" id="6570" />
+	</item>
+	<item>
+		<!-- Coins -->
+		<ingredient count="2500" id="13067" />
+		<!-- Blessed Scroll: Enchant Armor (S-Grade) -->
+		<production count="1" id="6578" />
+	</item>
+</list>

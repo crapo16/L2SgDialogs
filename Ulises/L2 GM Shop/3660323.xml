@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Upgrade {PvP} Armors-->
+<list maintainEnchantment="true">
+  <item>
+    <!-- Vorpal Breastplate -->
+    <ingredient id="15592" count="1"/>
+    <!-- Coins -->
+    <ingredient id="13067" count="16000"/>
+    <!-- Vorpal Breastplate {PvP} -->
+    <production id="16171" count="1"/>
+  </item>
+  <item>
+    <!-- Vorpal Leather Breastplate -->
+    <ingredient id="15593" count="1"/>
+    <!-- Coins -->
+    <ingredient id="13067" count="16000"/>
+    <!-- Vorpal Leather Breastplate {PvP} -->
+    <production id="16172" count="1"/>
+  </item>
+  <item>
+    <!-- Vorpal Tunic -->
+    <ingredient id="15594" count="1"/>
+    <!-- Coins -->
+    <ingredient id="13067" count="16000"/>
+    <!-- Vorpal Tunic {PvP} -->
+    <production id="16173" count="1"/>
+  </item>
+  <item>
+    <!-- Elegia Breastplate -->
+    <ingredient id="15575" count="1"/>
+    <!-- Coins -->
+    <ingredient id="13067" count="20000"/>
+    <!-- Vesper Breastplate {PvP} -->
+    <production id="16168" count="1"/>
+  </item>
+  <item>
+    <!-- Elegia Leather Breastplate -->
+    <ingredient id="15576" count="1"/>
+    <!-- Coins -->
+    <ingredient id="13067" count="20000"/>
+    <!-- Elegia Leather Breastplate {PvP} -->
+    <production id="16169" count="1"/>
+  </item>
+  <item>
+    <!-- Elegia Tunic -->
+    <ingredient id="15577" count="1"/>
+    <!-- Coins -->
+    <ingredient id="13067" count="20000"/>
+    <!-- Elegia Tunic {PvP} -->
+    <production id="16170" count="1"/>
+  </item>
+</list>

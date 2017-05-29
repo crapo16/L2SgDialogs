@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--S-Grade Armors-->
+<list>
+  <item>
+    <production id="6378" count="1"/>
+  </item>
+  <item>
+    <production id="6373" count="1"/>
+  </item>
+  <item>
+    <production id="6374" count="1"/>
+  </item>
+  <item>
+    <production id="6375" count="1"/>
+  </item>
+  <item>
+    <production id="6376" count="1"/>
+  </item>
+  <item>
+    <production id="6377" count="1"/>
+  </item>
+  <item>
+    <production id="6382" count="1"/>
+  </item>
+  <item>
+    <production id="6379" count="1"/>
+  </item>
+  <item>
+    <production id="6380" count="1"/>
+  </item>
+  <item>
+    <production id="6381" count="1"/>
+  </item>
+  <item>
+    <production id="-1" count="0"/>
+  </item>
+  <item>
+    <production id="-1" count="0"/>
+  </item>
+  <item>
+    <production id="6386" count="1"/>
+  </item>
+  <item>
+    <production id="6383" count="1"/>
+  </item>
+  <item>
+    <production id="6384" count="1"/>
+  </item>
+  <item>
+    <production id="6385" count="1"/>
+  </item>
+  <item>
+    <production id="12811" count="1"/>
+  </item>
+</list>

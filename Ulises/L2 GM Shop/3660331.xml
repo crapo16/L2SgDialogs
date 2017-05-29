@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--By Sir Astral-->
+<!--Moirai Jewels-->
+<list>
+  <item>
+    <ingredient id="13067" count="2000"/>
+    <production id="15723" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="2000"/>
+    <production id="15724" count="1"/>
+  </item>
+  <item>
+    <ingredient id="13067" count="2000"/>
+    <production id="15725" count="1"/>
+  </item>
+</list>
